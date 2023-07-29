@@ -1,0 +1,9 @@
+﻿name,imageUrl,positionName,id,parentId
+John James,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,PI,u1774725,
+Sam Garforth,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,PDRA,u1774730,u1774725
+Muna Fuyal,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,PDRA,O-6068,u1774725
+Ade Shonekan,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,PhD Student,O-6069,u1774725
+Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,CTO ,O-6070,u1774725
+Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,CTO ,O-6071,u1774730
+Fuller Andrew,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Linear Manager,O-6072,u1774730
+Peacock Margaret,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CEO,O-6073,u1774730
