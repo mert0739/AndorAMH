@@ -1,9 +1,0 @@
-﻿name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-John James,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,PI,u1774725,,
-Sam Garforth,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,PDRA,u1774730,u1774725,
-Muna Fuyal,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,PDRA,O-6068,u1774725,
-Ade Shonekan,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,PhD Student,O-6069,u1774725,
-Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6070,u1774725,
-Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6071,u1774730,
-Fuller Andrew,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Linear Manager,O-6072,u1774730,
-Peacock Margaret,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,CEO,O-6073,u1774730,
